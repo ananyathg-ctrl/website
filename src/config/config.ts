@@ -7,16 +7,16 @@ export const getAsset = (path: string) => {
 const siteConfig = {
   personal: {
     name: 'Ananya Gupta',
-    title: 'Economics Undergraduate | Data & Policy Enthusiast',
+    title: 'Student | Christ University',
     image: getAsset('images/profile.png'), // Resolves to /profile.png or /base-path/profile.png
-    description: 'An undergraduate student of Economics (Honors/Honors with Research) at Christ University, Bangalore, with a strong interest in data analysis, public policy, and applied economics.\n' +
+    description: 'Arju Sinha is an emerging economics student and researcher with interests across labour markets, development policy, urban economics, and macroeconomic analysis. She has worked on academic projects involving field research in major junctions of Bangalore, studying the challenges faced by diverse groups such as residents, daily commuters, migrants, and local businesses. Her academic work spans topics including wage structures, labour market discrimination, political economy debates, urban development, and international macroeconomic comparisons.\n' +
         '\n' +
-        'Actively involved in academic associations, social impact initiatives, and campus leadership roles, Ananya has hands-on exposure to research, event coordination, and field-based development work.\n' +
+        'Arju Sinha is an economics student at Christ University with a strong foundation in research, digital marketing, and analytical thinking. She has contributed to market research projects, supported digital marketing campaigns, and created engaging content across blogs, newsletters, and social media platforms. She is skilled in teamwork, problem-solving, and communication, and is continuously building her capabilities through hands-on internships and professional training. Arju is committed to expanding her expertise and applying her transferable skills to drive meaningful outcomes in diverse professional environments.\n' +
         '\n' +
-        'Her interests lie at the intersection of economics, sustainability, behavioral insights, and data-driven decision-making.' +
+        'She is currently pursuing her B.A. in Economics at Christ University and has supplemented her academic learning with practical training in digital marketing. She has completed industry-oriented coursework that strengthens her analytical, research, and problem-solving abilities. Her academic journey focuses on understanding economic concepts and applying them to real-world contexts, particularly in areas such as market research, consumer behavior, and digital-driven business strategies. She continues to build her skills through hands-on projects and professional certifications to bridge theory with practical application..\n' +
         '\n' +
-        'Chandravesh is the author of books “Programming for Machine Learning and Business” and “Machine Learning for Business". He regularly conducts training programs and workshops for professionals and students, focusing on making advanced analytical methods accessible and impactful.',
-    tagline: 'Exploring economics through data, policy, and impact.',
+        'Arju has contributed to content creation through her internship at Bharat Natural Private Limited, where she developed engaging blog posts, newsletters, and social media content aimed at improving audience reach and brand visibility. She actively participates in projects and training programs that enhance her understanding of digital marketing and analytics. Through these experiences, she focuses on making research-driven insights and creative communication more accessible and impactful for diverse audiences.',
+    tagline: 'Empowering business through data-driven intelligence.',
   location: 'Bangalore, India',
   },
 
@@ -87,10 +87,10 @@ certifications: [
   {
     title: "Deep Learning Specialization (DeepLearning.AI)",
     specialization: true,
-    file: getAsset("images/education/Certifications/deep learning specialisation- Neural Networks and Deep Learning Improving Deep Neural Networks Hyperparameter tuning Regularization and Optimization Structuring Machine Learning Projects Convolutional Neural Networks Sequence Models.pdf"),
+    file: getAsset("images/education/Certifications/deep learning specialisation: Neural Networks and Deep Learning Improving Deep Neural Networks Hyperparameter tuning Regularization and Optimization Structuring Machine Learning Projects Convolutional Neural Networks Sequence Models.pdf"),
     certificates: [
       { name: "Neural Networks and Deep Learning", file: getAsset("images/education/Certifications/deep learning Neural Networks and Deep Learning.pdf") },
-  { name: "Improving Deep Neural Networks", file: getAsset("images/education/Certifications/deep learning- Improving Deep Neural Networks- Hyperparameter tuning, Regularization and Optimization.pdf") },
+      { name: "Improving Deep Neural Networks", file: getAsset("images/education/Certifications/deep learning: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization.pdf") },
       { name: "Structuring Machine Learning Projects", file: getAsset("images/education/Certifications/deep learning ai structuring ML projects.pdf") },
       { name: "Convolutional Neural Networks", file: getAsset("images/education/Certifications/deep learning Convolutional Neural Networks.pdf") },
       { name: "Sequence Models", file: getAsset("images/education/Certifications/deep learning sequence models.pdf") },
@@ -101,12 +101,12 @@ certifications: [
   {
     title: "TensorFlow Developer Professional Certificate (DeepLearning.AI)",
     specialization: true,
-    file: getAsset("images/education/Certifications/deep learning specialisation- Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning Convolutional Neural Networks in TensorFlow Natural Language Processing in TensorFlow Sequences, Time Series and Prediction.pdf"),
+    file: getAsset("images/education/Certifications/deep learning specialisation: Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning Convolutional Neural Networks in TensorFlow Natural Language Processing in TensorFlow Sequences, Time Series and Prediction.pdf"),
     certificates: [
       { name: "Introduction to TensorFlow for AI", file: getAsset("images/education/Certifications/deep learning ai Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning.pdf") },
       { name: "Convolutional Neural Networks in TensorFlow", file: getAsset("images/education/Certifications/deep learning Convolutional Neural Networks in TensorFlow.pdf") },
       { name: "Natural Language Processing in TensorFlow", file: getAsset("images/education/Certifications/deep learning ai Natural language processing in tensorflow.pdf") },
-  { name: "Sequences, Time Series and Prediction", file: getAsset("images/education/Certifications/deeplearning ai- Sequences, time series and prediction.pdf") },
+      { name: "Sequences, Time Series and Prediction", file: getAsset("images/education/Certifications/deeplearning ai: Sequences, time series and prediction.pdf") },
     ],
   },
 
@@ -114,37 +114,37 @@ certifications: [
   {
     title: "Mathematics for Machine Learning Specialization (Imperial College London)",
     specialization: true,
-    file: getAsset("images/education/Certifications/specialisation- mathematics for ML- 3 courses.pdf"),
+    file: getAsset("images/education/Certifications/specialisation: mathematics for ML: 3 courses.pdf"),
     certificates: [
-  { name: "Linear Algebra", file: getAsset("images/education/Certifications/Imperial college london- M a t h e m a t i c s   f o r   M a c h i n e   L e a r n i n g -   L i n e a r  A l g e b r a.pdf") },
-  { name: "Multivariate Calculus", file: getAsset("images/education/Certifications/imperial college london- M a t h e m a t i c s   f o r   M a c h i n e   L e a r n i n g -   M u l t i v a r i a t e  C a l c u l u s.pdf") },
-  { name: "Principal Component Analysis", file: getAsset("images/education/Certifications/Imperial college london- M a t h e m a t i c s   f o r   M a c h i n e   L e a r n i n g -   P C A.pdf") },
+      { name: "Linear Algebra", file: getAsset("images/education/Certifications/Imperial college london: M a t h e m a t i c s   f o r   M a c h i n e   L e a r n i n g :   L i n e a r  A l g e b r a.pdf") },
+      { name: "Multivariate Calculus", file: getAsset("images/education/Certifications/imperial college london: M a t h e m a t i c s   f o r   M a c h i n e   L e a r n i n g :   M u l t i v a r i a t e  C a l c u l u s.pdf") },
+      { name: "Principal Component Analysis", file: getAsset("images/education/Certifications/Imperial college london: M a t h e m a t i c s   f o r   M a c h i n e   L e a r n i n g :   P C A.pdf") },
     ],
   },
 
   // --- University of Michigan ---
   {
     title: "Introduction to Data Science in Python (University of Michigan)",
-    file: getAsset("images/education/Certifications/university of michigan- Introduction to Data Science in Python.pdf"),
+    file: getAsset("images/education/Certifications/university of michigan: Introduction to Data Science in Python.pdf"),
   },
 
   // --- Duke University ---
   {
     title: "Business Metrics for Data-Driven Companies (Duke University)",
   cardImage: getAsset("images/education/Certifications/download.svg"),
-    file: getAsset("images/education/Certifications/Duke university- Business metrics for Data-driven companies.pdf"),
+    file: getAsset("images/education/Certifications/Duke university: Business metrics for Data-driven companies.pdf"),
   },
   {
     title: "Mastering Data Analysis in Excel (Duke University)",
   cardImage: getAsset("images/education/Certifications/download.svg"),
-    file: getAsset("images/education/Certifications/Duke university- Mastering Data Analysis in Excel.pdf"),
+    file: getAsset("images/education/Certifications/Duke university: Mastering Data Analysis in Excel.pdf"),
   },
 
   // --- Corporate Finance Institute (CFI) ---
   {
     title: "Accounting Fundamentals (CFI)",
   cardImage: getAsset("images/education/Certifications/download.svg"),
-    file: getAsset("images/education/Certifications/corporate finance institure- accounting fundamentals.pdf"),
+    file: getAsset("images/education/Certifications/corporate finance institure: accounting fundamentals.pdf"),
   },
   {
     title: "Excel Crash Course (CFI)",
@@ -300,8 +300,8 @@ certifications: [
   ],
 
   contact: {
-    email: 'ananyathg@gmail.com',
-    linkedin: 'www.linkedin.com/in/ananya-gupta-b01992375',
+    email: 'arjusinha12@gmail.com',
+    linkedin: 'www.linkedin.com/in/arju-sinha-370409299/',
     github: 'https://github.com/chandraveshchaudhari',
     googleScholar: 'https://scholar.google.com/citations?authuser=1&user=V78qbA8AAAAJ',
   orcid: 'https://orcid.org/0000-0003-1053-7541',
