@@ -6,7 +6,7 @@ export const getAsset = (path: string) => {
 
 const siteConfig = {
   personal: {
-    name: 'Ananya Gupta',
+    name: 'Arju Sinha',
     title: 'Student | Christ University',
     image: getAsset('images/profile.png'), // Resolves to /profile.png or /base-path/profile.png
     description: 'Arju Sinha is an emerging economics student and researcher with interests across labour markets, development policy, urban economics, and macroeconomic analysis. She has worked on academic projects involving field research in major junctions of Bangalore, studying the challenges faced by diverse groups such as residents, daily commuters, migrants, and local businesses. Her academic work spans topics including wage structures, labour market discrimination, political economy debates, urban development, and international macroeconomic comparisons.\n' +
