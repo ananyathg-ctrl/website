@@ -17,11 +17,11 @@ const siteConfig = {
   },
 
   seo: {
-    title: "Ananya Gupta | Economics Undergraduate at Christ University",
-    description: 'Portfolio website of Ananya Gupta, Economics undergraduate at Christ University, showcasing education, leadership, certifications, and projects.',
+    title: "Dr. Chandravesh Chaudhari - Assistant Professor & AI Researcher",
+    description: 'Official website showcasing Dr. Chandravesh Chaudhari\'s education, research, projects and experience.',
   },
 
-  animatedText: ['Economics Student', 'Policy Enthusiast', 'Data Learner', 'Campus Leader'],
+  animatedText: ['AI Researcher', 'Educator', 'Speaker', 'Builder'],
 
 navigation: [
   { name: 'Home', url: '/' },
@@ -47,7 +47,7 @@ navigation: [
   education: [
     {
       institution: 'Christ University, Bangalore',
-      degree: 'Bachelor’s in Economics (Honors / Honors with Research)',
+      degree: 'Doctor of Philosophy (PhD)',
       year: '2020–2025',
       image: getAsset('images/education/Christ_University.png'),
       description: [
