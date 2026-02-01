@@ -13,9 +13,7 @@ const siteConfig = {
         '\n' +
         'Actively involved in academic associations, social impact initiatives, and campus leadership roles, Ananya has hands-on exposure to research, event coordination, and field-based development work.\n\n' +
         '\n' +
-        'Her interests lie at the intersection of economics, sustainability, behavioral insights, and data-driven decision-making.' +
-        '\n' +
-        'Chandravesh is the author of books “Programming for Machine Learning and Business” and “Machine Learning for Business". He regularly conducts training programs and workshops for professionals and students, focusing on making advanced analytical methods accessible and impactful.',
+        'Her interests lie at the intersection of economics, sustainability, behavioral insights, and data-driven decision-making.',
     tagline: 'Exploring economics through data, policy, and impact.',
   location: 'Bangalore, India',
   },
@@ -301,7 +299,7 @@ certifications: [
 
   contact: {
     email: 'ananyathg@gmail.com',
-    linkedin: 'https://linkedin.com/in/your-link',
+    linkedin: 'www.linkedin.com/in/ananya-gupta-b01992375',
     github: 'https://github.com/chandraveshchaudhari',
     googleScholar: 'https://scholar.google.com/citations?authuser=1&user=V78qbA8AAAAJ',
   orcid: 'https://orcid.org/0000-0003-1053-7541',
