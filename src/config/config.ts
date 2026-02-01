@@ -10,8 +10,12 @@ const siteConfig = {
     title: 'Economics Undergraduate | Data & Policy Enthusiast',
     image: getAsset('images/profile.png'), // Resolves to /profile.png or /base-path/profile.png
     description: 'An undergraduate student of Economics (Honors/Honors with Research) at Christ University, Bangalore, with a strong interest in data analysis, public policy, and applied economics.\n\n' +
-    'Actively involved in academic associations, social impact initiatives, and campus leadership roles, Ananya has hands-on exposure to research, event coordination, and field-based development work.\n\n' +
-    'Her interests lie at the intersection of economics, sustainability, behavioral insights, and data-driven decision-making.',
+        '\n' +
+        'Actively involved in academic associations, social impact initiatives, and campus leadership roles, Ananya has hands-on exposure to research, event coordination, and field-based development work.\n\n' +
+        '\n' +
+        'Her interests lie at the intersection of economics, sustainability, behavioral insights, and data-driven decision-making.' +
+        '\n' +
+        'Chandravesh is the author of books “Programming for Machine Learning and Business” and “Machine Learning for Business". He regularly conducts training programs and workshops for professionals and students, focusing on making advanced analytical methods accessible and impactful.',
     tagline: 'Exploring economics through data, policy, and impact.',
   location: 'Bangalore, India',
   },
