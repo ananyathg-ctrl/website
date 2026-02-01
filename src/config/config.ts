@@ -6,26 +6,22 @@ export const getAsset = (path: string) => {
 
 const siteConfig = {
   personal: {
-    name: 'Dr. Chandravesh Chaudhari',
-    title: 'Assistant Professor | Multimodal AI Researcher',
+    name: 'Ananya Gupta',
+    title: 'Economics Undergraduate | Data & Policy Enthusiast',
     image: getAsset('images/profile.png'), // Resolves to /profile.png or /base-path/profile.png
-    description: 'Chandravesh Chaudhari, Ph.D. is an academic and practitioner working at the intersection of business analytics, machine learning, and technology-driven decision-making. His research and teaching focus on applying data science and emerging technologies to solve complex problems in business, economics, and management.\n' +
-        '\n' +
-        'Chandravesh teaches in the School of Business and Management at Christ University, where he has guided numerous students and professionals in mastering advanced Excel, Python, machine learning, and applied analytics. He is deeply involved in curriculum design, research mentorship, and capacity building for industry-oriented business analytics education.\n' +
-        '\n' +
-        'He earned his Ph.D. from Christ University, holds an Masters in Finance, and has completed specialized certifications in analytics and programming. His academic work emphasizes bridging theoretical concepts with real-world applications, particularly in domains such as financial analytics, business intelligence, and operational optimization.\n' +
-        '\n' +
-        'Chandravesh is the author of books “Programming for Machine Learning and Business” and “Machine Learning for Business". He regularly conducts training programs and workshops for professionals and students, focusing on making advanced analytical methods accessible and impactful.',
-    tagline: 'Empowering business through data-driven intelligence.',
+    description: 'An undergraduate student of Economics (Honors/Honors with Research) at Christ University, Bangalore, with a strong interest in data analysis, public policy, and applied economics.\n\n' +
+    'Actively involved in academic associations, social impact initiatives, and campus leadership roles, Ananya has hands-on exposure to research, event coordination, and field-based development work.\n\n' +
+    'Her interests lie at the intersection of economics, sustainability, behavioral insights, and data-driven decision-making.',
+    tagline: 'Exploring economics through data, policy, and impact.',
   location: 'Bangalore, India',
   },
 
   seo: {
-    title: "Dr. Chandravesh Chaudhari - Assistant Professor & AI Researcher",
-    description: 'Official website showcasing Dr. Chandravesh Chaudhari\'s education, research, projects and experience.',
+    title: "Ananya Gupta | Economics Undergraduate at Christ University",
+    description: 'Portfolio website of Ananya Gupta, Economics undergraduate at Christ University, showcasing education, leadership, certifications, and projects.',
   },
 
-  animatedText: ['AI Researcher', 'Educator', 'Speaker', 'Builder'],
+  animatedText: ['Economics Student', 'Policy Enthusiast', 'Data Learner', 'Campus Leader'],
 
 navigation: [
   { name: 'Home', url: '/' },
@@ -51,7 +47,7 @@ navigation: [
   education: [
     {
       institution: 'Christ University, Bangalore',
-      degree: 'Doctor of Philosophy (PhD)',
+      degree: 'Bachelor’s in Economics (Honors / Honors with Research)',
       year: '2020–2025',
       image: getAsset('images/education/Christ_University.png'),
       description: [
@@ -300,8 +296,8 @@ certifications: [
   ],
 
   contact: {
-    email: 'chandraveshchaudhari@gmail.com',
-    linkedin: 'https://www.linkedin.com/in/chandravesh-chaudhari/',
+    email: 'ananyathg@gmail.com',
+    linkedin: 'https://linkedin.com/in/your-link',
     github: 'https://github.com/chandraveshchaudhari',
     googleScholar: 'https://scholar.google.com/citations?authuser=1&user=V78qbA8AAAAJ',
   orcid: 'https://orcid.org/0000-0003-1053-7541',
