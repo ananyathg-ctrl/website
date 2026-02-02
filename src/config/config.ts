@@ -9,14 +9,10 @@ const siteConfig = {
     name: 'Ananya Gupta',
     title: 'Economics Undergraduate | Data & Policy Enthusiast',
     image: getAsset('images/profile.png'), // Resolves to /profile.png or /base-path/profile.png
-    description: 'iAnanya Gupta, Ph.D. is an academic and practitioner working at the intersection of business analytics, machine learning, and technology-driven decision-making. His research and teaching focus on applying data science and emerging technologies to solve complex problems in business, economics, and management.\n' +
-        '\n' +
-        'Chandravesh teaches in the School of Business and Management at Christ University, where he has guided numerous students and professionals in mastering advanced Excel, Python, machine learning, and applied analytics. He is deeply involved in curriculum design, research mentorship, and capacity building for industry-oriented business analytics education.\n' +
-        '\n' +
-        'He earned his Ph.D. from Christ University, holds an Masters in Finance, and has completed specialized certifications in analytics and programming. His academic work emphasizes bridging theoretical concepts with real-world applications, particularly in domains such as financial analytics, business intelligence, and operational optimization.\n' +
-        '\n' +
-        'Chandravesh is the author of books “Programming for Machine Learning and Business” and “Machine Learning for Business". He regularly conducts training programs and workshops for professionals and students, focusing on making advanced analytical methods accessible and impactful.',
-    tagline: 'Empowering business through data-driven intelligence.',
+    description: ''An undergraduate student of Economics (Honors/Honors with Research) at Christ University, Bangalore, with a strong interest in data analysis, public policy, and applied economics.\n\n' +
+    'Actively involved in academic associations, social impact initiatives, and campus leadership roles, Ananya has hands-on exposure to research, event coordination, and field-based development work.\n\n' +
+    'Her interests lie at the intersection of economics, sustainability, behavioral insights, and data-driven decision-making.',
+    tagline: 'Exploring economics through data, policy, and impact.',
   location: 'Bangalore, India',
   },
 
